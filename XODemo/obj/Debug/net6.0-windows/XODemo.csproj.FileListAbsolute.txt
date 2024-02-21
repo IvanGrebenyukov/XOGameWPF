@@ -1,0 +1,54 @@
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\bin\Debug\net6.0-windows\XODemo.exe
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\bin\Debug\net6.0-windows\XODemo.deps.json
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\bin\Debug\net6.0-windows\XODemo.runtimeconfig.json
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\bin\Debug\net6.0-windows\XODemo.dll
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\bin\Debug\net6.0-windows\XODemo.pdb
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo.csproj.AssemblyReference.cache
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo_MarkupCompile.cache
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo_MarkupCompile.lref
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo.g.resources
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo.AssemblyInfoInputs.cache
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo.AssemblyInfo.cs
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo.csproj.CoreCompileInputs.cache
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo.dll
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\refint\XODemo.dll
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo.pdb
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo.genruntimeconfig.cache
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\ref\XODemo.dll
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\bin\Debug\net6.0-windows\ConsoleApp1.deps.json
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\bin\Debug\net6.0-windows\ConsoleApp1.runtimeconfig.json
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\bin\Debug\net6.0-windows\ConsoleApp1.exe
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\bin\Debug\net6.0-windows\ConsoleApp1.dll
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+C:\Users\st310-08\Desktop\Гагаринов\3 XO Game\1\XODemo\obj\Debug\net6.0-windows\XODemo.csproj.CopyComplete
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\bin\Debug\net6.0-windows\ConsoleApp1.deps.json
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\bin\Debug\net6.0-windows\ConsoleApp1.runtimeconfig.json
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\bin\Debug\net6.0-windows\ConsoleApp1.exe
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\bin\Debug\net6.0-windows\XODemo.exe
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\bin\Debug\net6.0-windows\XODemo.deps.json
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\bin\Debug\net6.0-windows\XODemo.runtimeconfig.json
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\bin\Debug\net6.0-windows\XODemo.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\bin\Debug\net6.0-windows\XODemo.pdb
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\bin\Debug\net6.0-windows\ConsoleApp1.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\bin\Debug\net6.0-windows\ConsoleApp1.pdb
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo.csproj.AssemblyReference.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo_MarkupCompile.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo_MarkupCompile.lref
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo.g.resources
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo.AssemblyInfoInputs.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo.AssemblyInfo.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo.csproj.CoreCompileInputs.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo.csproj.Up2Date
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\refint\XODemo.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo.pdb
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\XODemo.genruntimeconfig.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\XO\XOGame\XODemo\obj\Debug\net6.0-windows\ref\XODemo.dll

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st310-08\\Desktop\\GrebenukovPR31\\XO\\XOGame\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F62FFFE-CB81-41CD-B59B-335DBF709FA8}|ConsoleApp1.csproj|c:\\users\\st310-08\\desktop\\grebenukovpr31\\xo\\xogame\\consoleapp1\\xofield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F62FFFE-CB81-41CD-B59B-335DBF709FA8}|ConsoleApp1.csproj|solutionrelative:xofield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3F8012-B682-41BF-ADF2-3BD6DB6E129B}|..\\XODemo\\XODemo.csproj|c:\\users\\st310-08\\desktop\\grebenukovpr31\\xo\\xogame\\xodemo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3F8012-B682-41BF-ADF2-3BD6DB6E129B}|..\\XODemo\\XODemo.csproj|c:\\users\\st310-08\\desktop\\grebenukovpr31\\xo\\xogame\\xodemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 797,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\GrebenukovPR31\\XO\\XOGame\\XODemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "..\\XODemo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\GrebenukovPR31\\XO\\XOGame\\XODemo\\MainWindow.xaml",
+              "RelativeToolTip": "..\\XODemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T12:09:25.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\GrebenukovPR31\\XO\\XOGame\\XODemo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\XODemo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\GrebenukovPR31\\XO\\XOGame\\XODemo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\XODemo\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAADwv3QAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T12:09:25.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XOField.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\GrebenukovPR31\\XO\\XOGame\\ConsoleApp1\\XOField.cs",
+              "RelativeDocumentMoniker": "XOField.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\GrebenukovPR31\\XO\\XOGame\\ConsoleApp1\\XOField.cs",
+              "RelativeToolTip": "XOField.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAADwv7sAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T12:09:25.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
